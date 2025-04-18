@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+bin/
+share/
+pyvenv.cfg
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Local development settings
+.env
+.env.local
+
+# Test and Coverage Reports
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+
+# Pytest Cache
+.pytest_cache/
+
+# MyPy Cache
+.mypy_cache/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Compiled Python Files
+*.pyo
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Backup Files
+*~
+*.bak 
